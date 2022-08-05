@@ -1,3 +1,13 @@
+@media (max-width: 430px) {
+  p {
+    text-align: center;
+  }
+  .launch-link {
+    display: block;
+    margin: 0 auto;
+    text-align: center;
+  }
+}
 :root {
   --primary-color: #6c63ff;
   --secondary-color: #f5f2fe;
