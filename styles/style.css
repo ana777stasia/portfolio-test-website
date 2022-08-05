@@ -1,4 +1,7 @@
 @media (max-width: 430px) {
+  h1 {
+    font-size: 65px !important;
+  }
   p {
     text-align: center;
   }
